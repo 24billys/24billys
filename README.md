@@ -1,6 +1,20 @@
-# 💫 About Me:
-✨Hello, I'm Bili. Self-taught data analysis talent with years of financial role experience<br><br>Querying data using SQL and Python.<br>Developing dashboards on Tableau, PowerBI and IBM Cognos Analytics.<br>Data analysis and reporting using Excel.
+# ✒️ About Me:
+🖐🏻Hello, I'm Bili. Self-taught data analysis talent with years of financial role experience. I have developed a strong foundation in financial analysis and data management. Recently, I completed the <b>IBM Data Analyst Professional Certificate</b>, where I gained expertise in data analysis techniques and tools.<br><br> - Querying data using SQL and Python.<br> - Developing dashboards on Tableau, PowerBI and IBM Cognos Analytics.<br> - Data analysis and reporting using Excel.
 
+
+ - 👨🏽‍💻 Accounting background with years of financial roles experience<br>
+ - 🔍 Currently working as an commission assistance looking for any data anlysis related opportunities<br>
+ - 💻 Self-taught data analytics since Feb 2023<br>
+
+
+## 📚 Projects Profolio
+
+Feel free to discover my data analysis projects
+
+## 🧰Tools
+ - EDA : SQL, Python, Excel
+ - Database: SSMS, MySQL, SQLite
+ - Visualization: Excel, Python, PowerBI, Tableau
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilichoi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilichoi/) 
