@@ -1,4 +1,4 @@
-![Banner](65173eda1d71710013df5fa5.png)
+![Banner](profile%20banner.png)
 
 
 # ✒️ About Me:
