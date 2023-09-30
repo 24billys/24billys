@@ -1,3 +1,6 @@
+![Banner](65173eda1d71710013df5fa5.png)
+
+
 # ✒️ About Me:
 🖐🏻Hello, I'm Bili. Self-taught data analysis talent with years of financial role experience. I have developed a strong foundation in financial analysis and data management. Recently, I completed the <b>IBM Data Analyst Professional Certificate</b>, where I gained expertise in data analysis techniques and tools.<br><br> - Querying data using SQL and Python.<br> - Developing dashboards on Tableau, PowerBI and IBM Cognos Analytics.<br> - Data analysis and reporting using Excel.
 
