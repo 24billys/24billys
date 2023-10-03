@@ -33,7 +33,7 @@ Feel free to discover my data analysis projects
 ![](https://github-readme-streak-stats.herokuapp.com/?user=24billys&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=24billys&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=24billys&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Top Contributed Repo
