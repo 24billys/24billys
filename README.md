@@ -12,8 +12,8 @@
 
 # 📚 Projects Profolio
 
-Feel free to discover my data analysis projects
-
+Feel free to discover my data analysis projects... [Click here or the picture](https://github.com/24billys/DA-Portfolio-Guide)
+[![projects](projects.png)](https://github.com/24billys/DA-Portfolio-Guide)
 # 🧰Tools
  - EDA : SQL, Python, Excel
  - Database: SSMS, MySQL, SQLite
